@@ -1,0 +1,52 @@
+header {
+  color: white;
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(16, 6, 6);
+}
+
+nav a {
+  color:white
+  text-decoration: none;
+  padding: 10px;
+  font-weight: bold;
+}
+
+
+nav {
+  margin-top: ;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+section {
+  padding: 30px 20px;
+  border-bottom: 1px solid;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.project {
+  background-color: #eee;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(16, 6, 6);
+  color: white;
+}
